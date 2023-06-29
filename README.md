@@ -16,8 +16,8 @@
 
 ## 
 
-### demo：IMU显示
-### demo1：Odometry里程计显示
+### demo：IMU
+### demo1：Odometry（里程计）
 ### demo2：颜色相机
 ### demo3：深度相机
 ### my_pcl：激光雷达_点云
